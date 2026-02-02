@@ -571,8 +571,10 @@ export default function Home() {
     <>
       <Head>
         <title>WorkflowIQ - KI-Workflow Automatisierung | Zeit & Geld sparen</title>
-        <meta name="description" content="Spare bis zu 20 Stunden pro Woche mit maßgeschneiderten KI-Workflows
-        <div className="min-h-screen bg-slate-900">
+        <meta name="description" content="Spare bis zu 20 Stunden pro Woche mit maßgeschneiderten KI-Workflows. Lead-Management, Terminplanung & mehr. Aus Österreich für den DACH-Markt." />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+</Head>
+      <div className="min-h-screen bg-slate-900">
     <Navigation 
       activeSection={activeSection}
       setActiveSection={setActiveSection}
